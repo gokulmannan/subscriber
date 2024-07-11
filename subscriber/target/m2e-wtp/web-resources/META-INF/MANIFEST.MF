@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Gokul
+Build-Jdk: 17.0.10
+Implementation-Title: subscriber
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.finagg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/subscriber
+Created-By: Maven Integration for Eclipse
+
